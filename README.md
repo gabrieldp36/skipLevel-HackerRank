@@ -2,9 +2,9 @@
 
 Esta aplicación surge del desafío originado en un ejercicio de alta complejidad públicado en HackerRank (Skip-Level). 
 
-Consigna del challenge: Braulio comienza a jugar un nuevo videojuego en el cual cada nivel tiene un costo fijo. Braulio debe jugar los niveles en orden, pero tiene la posibilidad de poder saltearse un único nivel. Armar un algoritmo que calcule cual es la cantidad máxima de nivel que puede jugar Braulio a partir de un crédito inicial brindado.
+Consigna del challenge: Braulio comienza a jugar un nuevo videojuego en el cual cada nivel tiene un costo fijo. Braulio debe jugar los niveles en orden, pero tiene la posibilidad de poder saltearse un único nivel. Armar un algoritmo que calcule cual es la cantidad máxima de niveles que puede jugar Braulio a partir de un crédito inicial brindado.
 
-Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
+Lo primero que debemos hacer después de descargar el código es ejecutar el siguiente comando:
 
 ```
 node app
