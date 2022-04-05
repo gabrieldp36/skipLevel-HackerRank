@@ -1,6 +1,6 @@
 // Declaro esta variable para indicar el número máximo de créditos que dispone el jugador.
 
-const k = 14;
+const k = 20;
 
 // En este arreglo agregamos los niveles a cumplimentar, 
 // el numero representa el costo que insume finalizar el nivel.
